@@ -1,0 +1,20 @@
+[
+  {
+    "createdAt": "2023-03-21T13:11:51.406530035",
+    "edad": 45,
+    "nombre": "José Luis",
+    "uuid": "5cc2b11b-78c9-4bf0-86fe-bf3e722422b2"
+  },
+  {
+    "createdAt": "2023-03-21T13:11:51.406617049",
+    "edad": 25,
+    "nombre": "María",
+    "uuid": "8fe3eb65-68a6-4bae-acd7-0ba3d63e7bca"
+  },
+  {
+    "createdAt": "2023-03-21T13:11:51.406635092",
+    "edad": 35,
+    "nombre": "Juan",
+    "uuid": "bd21dbfb-4dec-4a20-aad1-23b04b7eb30c"
+  }
+]

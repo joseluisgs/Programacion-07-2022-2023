@@ -1,0 +1,22 @@
+<pacientes_list>
+   <paciente uuid="1c6b7e2b-24ad-402e-b892-868b66a51512">
+      <nombre>Juan</nombre>
+      <edad>30</edad>
+      <created_at>2023-03-21T13:02:34.285669062</created_at>
+   </paciente>
+   <paciente uuid="b0514737-ce7a-4ed5-b9c4-ef538cfa1400">
+      <nombre>Ana</nombre>
+      <edad>25</edad>
+      <created_at>2023-03-21T13:02:34.285737535</created_at>
+   </paciente>
+   <paciente uuid="7c7ecb97-de69-4c35-a79c-d1e0fa8afe64">
+      <nombre>Luis</nombre>
+      <edad>40</edad>
+      <created_at>2023-03-21T13:02:34.285799947</created_at>
+   </paciente>
+   <paciente uuid="fb6e4eae-7637-4d4c-be37-f4e6bf6882bf">
+      <nombre>María</nombre>
+      <edad>35</edad>
+      <created_at>2023-03-21T13:02:34.285830237</created_at>
+   </paciente>
+</pacientes_list>
