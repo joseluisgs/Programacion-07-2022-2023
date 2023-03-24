@@ -124,6 +124,24 @@ fun main(args: Array<String>) {
         .mapValues { it.value.size }
         .maxByOrNull { it.value }
     )
+    //Sacar una lista de los pokemons ordenador por altura
+    println()
+    println("Lista de los pokemons ordenador por altura:")
+    pokedex.pokemons.toList().sortedByDescending { it.height }.forEach { println("Id: ${it.id}, Nombre: ${it.name}, Altura: ${it.height}") }
 
+    //El pokemon que tiene más posibilidades de aparecer
+    println()
+    println("El pokemon que tiene más posibilidades de aparecer:")
+    println(pokedex.pokemons.maxByOrNull { it.spawnChance }?.name)
+
+    //El pokemon que tiene menos posibilidades de aparecer
+    println()
+    println("El pokemon que tiene menos posibilidades de aparecer:")
+    println(pokedex.pokemons.minByOrNull { it.spawnChance }?.name)
+
+    //La media de posibilidad de aparición de los pokemons
+    println()
+    println("La media de posibilidad de aparición de los pokemons:")
+    println(pokedex.pokemons.map { it.spawnChance }.average())
 
 }
