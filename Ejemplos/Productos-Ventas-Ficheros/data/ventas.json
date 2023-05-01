@@ -1,0 +1,60 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "lineas": [
+      {
+        "idVenta": 1,
+        "idLineaVenta": 1,
+        "idProducto": 4,
+        "cantidad": 2,
+        "precioProducto": 81.77069338991755
+      },
+      {
+        "idVenta": 1,
+        "idLineaVenta": 2,
+        "idProducto": 2,
+        "cantidad": 3,
+        "precioProducto": 58.462588110854064
+      },
+      {
+        "idVenta": 1,
+        "idLineaVenta": 3,
+        "idProducto": 3,
+        "cantidad": 4,
+        "precioProducto": 83.14279873572501
+      }
+    ],
+    "createdAt": "2023-03-23",
+    "updatedAt": "2023-03-23"
+  },
+  {
+    "id": 2,
+    "userId": 1,
+    "lineas": [
+      {
+        "idVenta": 2,
+        "idLineaVenta": 1,
+        "idProducto": 4,
+        "cantidad": 2,
+        "precioProducto": 81.77069338991755
+      },
+      {
+        "idVenta": 2,
+        "idLineaVenta": 2,
+        "idProducto": 2,
+        "cantidad": 3,
+        "precioProducto": 58.462588110854064
+      },
+      {
+        "idVenta": 2,
+        "idLineaVenta": 3,
+        "idProducto": 3,
+        "cantidad": 4,
+        "precioProducto": 83.14279873572501
+      }
+    ],
+    "createdAt": "2023-03-23",
+    "updatedAt": "2023-03-23"
+  }
+]

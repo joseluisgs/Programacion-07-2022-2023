@@ -1,0 +1,65 @@
+<productos>
+   <producto id="2" disponible="true">
+      <nombre>Producto D</nombre>
+      <precio>66.64001582446407</precio>
+      <cantidad>29</cantidad>
+      <created_at>2023-03-23</created_at>
+      <updated_at>2023-03-23</updated_at>
+   </producto>
+   <producto id="3" disponible="true">
+      <nombre>Producto J</nombre>
+      <precio>58.27697437577439</precio>
+      <cantidad>27</cantidad>
+      <created_at>2023-03-23</created_at>
+      <updated_at>2023-03-23</updated_at>
+   </producto>
+   <producto id="4" disponible="true">
+      <nombre>Producto Z</nombre>
+      <precio>26.205508826401104</precio>
+      <cantidad>42</cantidad>
+      <created_at>2023-03-23</created_at>
+      <updated_at>2023-03-23</updated_at>
+   </producto>
+   <producto id="5" disponible="true">
+      <nombre>Producto W</nombre>
+      <precio>22.756253195244412</precio>
+      <cantidad>50</cantidad>
+      <created_at>2023-03-23</created_at>
+      <updated_at>2023-03-23</updated_at>
+   </producto>
+   <producto id="6" disponible="true">
+      <nombre>Producto Z</nombre>
+      <precio>3.874355758178868</precio>
+      <cantidad>39</cantidad>
+      <created_at>2023-03-23</created_at>
+      <updated_at>2023-03-23</updated_at>
+   </producto>
+   <producto id="7" disponible="true">
+      <nombre>Producto D</nombre>
+      <precio>60.98566700580791</precio>
+      <cantidad>19</cantidad>
+      <created_at>2023-03-23</created_at>
+      <updated_at>2023-03-23</updated_at>
+   </producto>
+   <producto id="8" disponible="true">
+      <nombre>Producto T</nombre>
+      <precio>48.5607779863225</precio>
+      <cantidad>10</cantidad>
+      <created_at>2023-03-23</created_at>
+      <updated_at>2023-03-23</updated_at>
+   </producto>
+   <producto id="9" disponible="true">
+      <nombre>Producto K</nombre>
+      <precio>34.25139075415871</precio>
+      <cantidad>12</cantidad>
+      <created_at>2023-03-23</created_at>
+      <updated_at>2023-03-23</updated_at>
+   </producto>
+   <producto id="10" disponible="true">
+      <nombre>Producto D</nombre>
+      <precio>41.1937086395136</precio>
+      <cantidad>31</cantidad>
+      <created_at>2023-03-23</created_at>
+      <updated_at>2023-03-23</updated_at>
+   </producto>
+</productos>

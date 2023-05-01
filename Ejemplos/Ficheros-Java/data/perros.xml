@@ -1,0 +1,17 @@
+<perros>
+   <perro uuid="1672a82d-3f8a-400b-9b4e-cba44e7a1951">
+      <nombre>Firulais</nombre>
+      <edad>5</edad>
+      <created_at>2023-03-23T09:55:47.263106119</created_at>
+   </perro>
+   <perro uuid="df49737f-5188-4fd3-833c-b96822ba7570">
+      <nombre>Salchichon</nombre>
+      <edad>6</edad>
+      <created_at>2023-03-23T09:55:47.263189510</created_at>
+   </perro>
+   <perro uuid="db16aee7-2ad2-43e4-a90e-aebdd687af5f">
+      <nombre>Chispas</nombre>
+      <edad>7</edad>
+      <created_at>2023-03-23T09:55:47.263210224</created_at>
+   </perro>
+</perros>
